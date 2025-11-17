@@ -22,15 +22,11 @@ This repository contains materials for an introductory data science module, part
 - [Software Requirements](#software-requirements)
 - [Architecture Design](#architecture-design)
 - [Data](#data)
-- [Funding](#funding)
-- [License for Data](#license-for-data)
+- 
 ## Video Overview
-<p align="center">
-        <a href="https://www.youtube.com/watch?v=7XHhE6WxX60&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=51">
-        </a>
-    <br>
-    <span> <b>Click above image to watch overview video</b> </span>
-</p>
+
+https://www.youtube.com/watch?v=7XHhE6WxX60&list=PLXaEJPtnQ4w7Vu7vqWbttBjUGrPp4Qa7b&index=51
+
 
 
 ## **Background**
@@ -92,16 +88,5 @@ The datasets used in this module are included within the repository in the `data
 
 Ensure to set the working directory correctly to access these files.
 
-## **Funding**
-
-This module was developed with support from [insert funding source, e.g., NIH grant XYZ12345].
-
-## **License for Data**
-
-The datasets and code in this repository are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license unless stated otherwise. Please attribute the authors when using or modifying these materials for your work.
-
----
-
-Feel free to expand sections or customize based on specific needs for the module.
 
 
