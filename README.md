@@ -1,13 +1,21 @@
-# Introduction to R and Data Science
 
 <p align="center">
-    <img src="images/duke-anchor-graphic.png" width="400" />
+    <img src="images/r-coursecard.png" width="400" />
 </p>
+
+## Overview
+
+This repository contains materials for an introductory data science module, part of the NIH NIGMS sandbox initiative, designed for learners new to data science concepts and techniques. The module emphasizes practical applications using R programming and foundational statistical concepts, leveraging cloud computing on Google Cloud Platform (GCP) with Jupyter notebooks. Key topics include:
+
+- Introduction to R programming.
+- Tidyverse essentials, including data filtering with `dplyr`, data cleaning with `tidyr` and visualization with `ggplot2`.
+- Fundamentals of statistical methods such as ANOVA and Linear Regression (LR).
+- A primer on RNAseq data analysis.
+- Introduction to [AI assistant within Jupyter](https://github.com/NIGMS/Data-Science-Foundations-in-R/blob/main/data_science_module_setup.md#ai-assistant)
 
 
 ## **Contents**
 
-- [Overview](#overview)
 - [Background](#background)
 - [Before Starting](#before-starting)
 - [Getting Started](#getting-started)
@@ -25,15 +33,6 @@
     <span> <b>Click above image to watch overview video</b> </span>
 </p>
 
-## **Overview**
-
-This repository contains materials for an introductory data science module, part of the NIH NIGMS sandbox initiative, designed for learners new to data science concepts and techniques. The module emphasizes practical applications using R programming and foundational statistical concepts, leveraging cloud computing on Google Cloud Platform (GCP) with Jupyter notebooks. Key topics include:
-
-- Introduction to R programming.
-- Tidyverse essentials, including data filtering with `dplyr`, data cleaning with `tidyr` and visualization with `ggplot2`.
-- Fundamentals of statistical methods such as ANOVA and Linear Regression (LR).
-- A primer on RNAseq data analysis.
-- Introduction to [AI assistant within Jupyter](https://github.com/NIGMS/Data-Science-Foundations-in-R/blob/main/data_science_module_setup.md#ai-assistant)
 
 ## **Background**
 
